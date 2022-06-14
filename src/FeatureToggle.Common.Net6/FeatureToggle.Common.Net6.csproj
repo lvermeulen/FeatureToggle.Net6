@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>FeatureToggle</RootNamespace>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Authors>Jason Roberts, Luk Vermeulen</Authors>
+    <Company />
+    <Product />
+    <Description>Simple, reliable feature toggles in .NET. This is the .NET 6.0 package for the main FeatureToggle package.</Description>
+    <Copyright>Copyright 2014-2017 Jason Roberts</Copyright>
+    <PackageLicenseUrl>https://github.com/lvermeulen/FeatureToggle.Net6/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/lvermeulen/FeatureToggle.Net6</PackageProjectUrl>
+    <RepositoryUrl />
+    <PackageTags>feature toggle branch merge featuretoggle cd continuous delivery</PackageTags>
+  </PropertyGroup>
+
+</Project>
